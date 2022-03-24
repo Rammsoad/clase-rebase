@@ -14,3 +14,4 @@
 * Birdman
 * Doctor Strange
 * Wolverine
+* Gambito
